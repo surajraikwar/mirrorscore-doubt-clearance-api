@@ -1,0 +1,27 @@
+.grid{
+  display: grid;
+  grid-template-columns: 55% 45%;
+}
+.student{
+  background: #F2F2F2;
+  padding: 40px;
+}
+.teacher{
+  padding: 40px;
+}
+
+.form-group{
+  padding: 30px 0 0 0;
+}
+
+.a{
+  display: inline;
+  font-family: Poppins;
+
+}
+
+.b{
+  display: inline;
+  font-family: Poppins;
+  color: #969696;
+}
